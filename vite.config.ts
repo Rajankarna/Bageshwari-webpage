@@ -4,11 +4,10 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: '/bageshwari-hospital', // ✅ Essential for subpath hosting
+  base: '/', // ✅ Essential for subpath hosting
   server: {
     host: "::",
     port: 8080,
-    // ✅ Ensure proper SPA fallback for BrowserRouter
     fs: {
       strict: false,
     },
