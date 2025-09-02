@@ -310,10 +310,10 @@ const ContactSection = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
-  onClick={() => window.location.href = 'tel:+01-4314194'}
+  onClick={() => window.location.href = 'tel:+01-4315930'}
   className="bg-red-600 hover:bg-red-700 text-white px-8 py-3 rounded-full font-semibold"
 >
-  Call Emergency: +01-4314194
+  Call Emergency: +01-4315930
 </Button>
                 <Button
                   variant="outline"

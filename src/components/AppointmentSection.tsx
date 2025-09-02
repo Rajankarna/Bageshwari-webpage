@@ -242,7 +242,7 @@ const AppointmentSection: React.FC = () => {
                       type="tel"
                       value={formData.phone}
                       onChange={(e) => handleInputChange('phone', e.target.value)}
-                      placeholder="+91 98765 43210"
+                      placeholder="+977-98XXXXXXXX"
                       className="border-gray-300 focus:border-emerald-500"
                       required
                     />
