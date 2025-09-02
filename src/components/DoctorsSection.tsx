@@ -15,7 +15,7 @@ const DoctorsSection = () => {
       specialty: 'Consultant Orthopaedic Surgeon',
       qualification: 'MBBS (IOM), MS (NAMS), Mch(UK), Fellowship in Joint Replacement (India), Fellowship in AO Trauma (Thiland, Japan)',
       experience: '18+ years',
-      image: '/bageshwari-hospital/Prof Dr deepak Dutta.png', // Ensure this image exists in your public folder
+      image: '/Prof Dr deepak Dutta.png', // Ensure this image exists in your public folder
       availability: 'Sun-Fri: 4:00 PM - 8:00 PM ,Sat: 11:00 AM - 4:00 PM' ,
       email: 'bageshwarihospital11@gmail.com',
       department: 'Orthopaedics, Tarauma & Joint Replacement Surgeon'
@@ -26,7 +26,7 @@ const DoctorsSection = () => {
       specialty: 'Gynecologist and obstetrician',
       qualification: 'MBBS (IOM), MD (Obs/Gynae)',
       experience: '14 years',
-      image: '/bageshwari-hospital/Uma kanth bhattarai.png',
+      image: '/Uma kanth bhattarai.png',
       availability: 'On Call (Daily from 10am-1pm)',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Gynecologist and obstetrician'
@@ -38,7 +38,7 @@ const DoctorsSection = () => {
       specialty: 'Senior Consultant Surgeon',
       qualification: 'MBBS, MS (General Surgery)',
       experience: '30+ years',
-      image: '/bageshwari-hospital/Prashuram mishra.png',
+      image: '/Prashuram mishra.png',
       availability: 'Afternoon-10am to 1pm (Daily)',
       email: 'bageshwarihospital11@gmail.com',
       department: 'General Surgery'
@@ -49,7 +49,7 @@ const DoctorsSection = () => {
       specialty: 'General Surgery, Urologist',
       qualification: 'MBBS, MS (NAMS), Fellowship in Urology (India)',
       experience: '16+ years',
-      image: '/bageshwari-hospital/Rishi kanth aryal.png',
+      image: '/Rishi kanth aryal.png',
       availability: ' 5 PM - 6 PM Evening',
       email: 'bageshwarihospital11@gmail.com',
       department: 'General Surgery'
@@ -60,7 +60,7 @@ const DoctorsSection = () => {
       specialty: '(Internal Medicine)',
       ualification: 'MBBS, MD-General Medicine',
       experience: '10+ years',
-      image: '/bageshwari-hospital/apurba shrestha.png',
+      image: '/apurba shrestha.png',
       availability: '10:00 AM - 1:00 PM Evening',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Internal Medicine'
@@ -71,7 +71,7 @@ const DoctorsSection = () => {
       specialty: 'ENT Surgeon, Specialization in Pediatric ENT Surgery',
       qualification: 'MBBS, MS(IOM)',
       experience: '15+ years',
-      image: '/bageshwari-hospital/Dr Heempali-Dutta.png',
+      image: '/Dr Heempali-Dutta.png',
       availability: '10:00 AM - 1:00 PM ( Wednesday and Saturday)',
       email: 'bageshwarihospital11@gmail.com',
       department: 'ENT'
@@ -82,7 +82,7 @@ const DoctorsSection = () => {
       specialty: 'ENT Surgeon',
       qualification: 'MBBS, MD-ENT',
       experience: '8 years',
-      image: '/bageshwari-hospital/Suraj chandra sharma.png',
+      image: '/Suraj chandra sharma.png',
       availability: '10:00 AM - 1:00 PM Everyday',
       email: 'bageshwarihospital11@gmail.com',
       department: 'ENT'
@@ -93,7 +93,7 @@ const DoctorsSection = () => {
       specialty: 'Physician & Gastroenterologist',
       qualification: 'MBBS, MD( Internal Medicine, NAMS), DM (Gastro, NAMS)',
       experience: '14 years',
-      image: '/bageshwari-hospital/Ram Krishna Baral.png',
+      image: '/Ram Krishna Baral.png',
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Physician & Gastroenterologist'
@@ -104,7 +104,7 @@ const DoctorsSection = () => {
       specialty: 'General Surgeon',
       qualification: 'MBBS , MS (General Surgery)',
       experience: '1+ years',
-      image: '/bageshwari-hospital/Dr Kiran BK.png',
+      image: '/Dr Kiran BK.png',
       availability: 'On Call (Daily from 10am-1pm)',
       email: 'bageshwarihospital11@gmail.com',
       department: 'General Surgeon'
@@ -115,7 +115,7 @@ const DoctorsSection = () => {
       specialty: 'Anesthesiologist',
       qualification: 'MBBS, MD-Anaesthesia',
       experience: '5+ years',
-      image: '/bageshwari-hospital/Praveen kumar giri.png',
+      image: '/Praveen kumar giri.png',
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Anesthesiologist'
@@ -126,7 +126,7 @@ const DoctorsSection = () => {
       specialty: 'Consultant Rardiologist',
       qualification: 'MBBS, MD-Radiology',
       experience: '15 years',
-      image: '/bageshwari-hospital/Rossu Thapa.png',
+      image: '/Rossu Thapa.png',
       availability: '10:00 AM - 1:00 PM Everyday',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Rardiologist'
@@ -137,7 +137,7 @@ const DoctorsSection = () => {
       specialty: 'Consultant Orthopedic and Spine Surgeon',
       qualification: 'MBBS, MS, Fellowship in Spine Surgery(India)',
       experience: '12 years',
-      image: '/bageshwari-hospital/Rajesh pratap.png',
+      image: '/Rajesh pratap.png',
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Orthopedic'
@@ -148,7 +148,7 @@ const DoctorsSection = () => {
       specialty: 'Physiotherapy-1',
       qualification: 'BPT (India)',
       experience: '11 years',
-      image: '/bageshwari-hospital/Shyam sundar yadav.png',
+      image: '/Shyam sundar yadav.png',
       availability: '4:00 PM - 8:00 PM Everyday',
       email: 'bageshwarihospital11@gmail.com',
       department: 'BPT'

@@ -96,7 +96,7 @@ const About = () => {
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
                 <img 
-                  src='/bageshwari-hospital/Mithila sharma.png' 
+                  src='/Mithila sharma.png' 
                   alt="Dr. Mithila Sharma - Chief Medical Officer" 
                   className="w-32 h-32 rounded-full object-cover mx-auto mb-4 border-4 border-emerald-100"
                 />
@@ -107,7 +107,7 @@ const About = () => {
               
               <div className="text-center">
                 <img 
-                  src='/bageshwari-hospital/Prof Dr deepak Dutta.png' 
+                  src='/Prof Dr deepak Dutta.png' 
                   alt="Dr. Deepak Dutta - Medical Director" 
                   className="w-32 h-32 rounded-full object-cover mx-auto mb-4 border-4 border-emerald-100"
                 />
@@ -118,7 +118,7 @@ const About = () => {
               
               <div className="text-center">
                 <img 
-                  src='/bageshwari-hospital/Ravi Karna.jpeg' 
+                  src='/Ravi Karna.jpeg' 
                   alt="Mr. Ravi Karna - Hospital Administrator" 
                   className="w-32 h-32 rounded-full object-cover mx-auto mb-4 border-4 border-emerald-100"
                 />
@@ -137,7 +137,7 @@ const About = () => {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
                 <img 
-                  src="/bageshwari-hospital/facility/HDU-1.png" 
+                  src="/facility/HDU-1.png" 
                   alt="Modern Patient Rooms" 
                   className="w-full h-48 object-cover"
                 />
@@ -149,7 +149,7 @@ const About = () => {
               
               <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
                 <img 
-                  src="/bageshwari-hospital/facility/LAB-2.png" 
+                  src="/facility/LAB-2.png" 
                   alt="Advanced Medical Equipment" 
                   className="w-full h-48 object-cover"
                 />

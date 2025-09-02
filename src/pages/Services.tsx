@@ -11,19 +11,19 @@ const Services = () => {
       title: 'Emergency & Trauma Care',
       description: 'Our 24/7 emergency department is equipped with advanced life support systems and staffed by experienced emergency physicians.',
       features: ['24/7 Emergency Services', 'Trauma Team Response', 'Critical Care Unit', 'Emergency Surgery'],
-      image: '/bageshwari-hospital/OT Image.jpg'
+      image: '/OT Image.jpg'
     },
     {
       title: 'Surgical Excellence',
       description: 'State-of-the-art operation theaters with minimally invasive surgical techniques for faster recovery and better outcomes.',
       features: ['ENT', 'General Surgery', 'Orthopedic Surgery', 'Gynecological Surgery'],
-      image: '/bageshwari-hospital/facility/OT-3.png'
+      image: '/facility/OT-3.png'
     },
     {
       title: 'Equipped Diagnostics and Physiotherapy',
       description: 'Comprehensive Lab services along with physiotherapy care with specialized expertise and friendly environment.',
       features: ['Digital X-ray', 'Blood tests', 'Ultrasound', 'ECG & EEG','Post-surgery rehabilitation', 'Sports injury treatment', 'Pain management', 'Mobility training', 'UST Therapy','IFT Therapy','TENS Therapy','Cupping Therapy','Digital Lumbar and Cervical Traction','Theraband Splinting','Kinesiology Taping'],
-      image: '/bageshwari-hospital/facility/LAB-1.png'
+      image: '/facility/LAB-1.png'
     }
   ];
 

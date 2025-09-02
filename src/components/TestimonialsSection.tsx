@@ -11,7 +11,7 @@ const TestimonialsSection = () => {
       id: 1,
       name: "Rajan Lal",
       image:
-        "/bageshwari-hospital/photo oo.jpg",
+        "/photo oo.jpg",
       rating: 5,
       review:
         "Exceptional care and treatment at Bageshwari Hospital. Prof. Dr. Deepak Dutta provided excellent consultation and the staff was very supportive throughout my treatment. Highly recommend this hospital for quality healthcare.",
@@ -33,7 +33,7 @@ const TestimonialsSection = () => {
       id: 3,
       name: "Ravi",
       image:
-        "/bageshwari-hospital/Ravi Karna.jpeg",
+        "/Ravi Karna.jpeg",
       rating: 5,
       review:
         "Dr. Kiran BK and her team provided exceptional care during my surgery. The delivery was smooth and the post-surgery care was outstanding. Thank you for making this journey so comfortable.",

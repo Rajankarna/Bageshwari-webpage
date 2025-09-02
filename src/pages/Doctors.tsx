@@ -26,7 +26,7 @@ const Doctors = () => {
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
                 <img 
-                  src="/bageshwari-hospital/facility/Consultation-1.jpg" 
+                  src="/facility/Consultation-1.jpg" 
                   alt="Doctor Consultation" 
                   className="w-full h-48 object-cover rounded-2xl mb-4"
                 />
@@ -36,7 +36,7 @@ const Doctors = () => {
               
               <div className="text-center">
                 <img 
-                  src="/bageshwari-hospital/OT Image.jpg" 
+                  src="/OT Image.jpg" 
                   alt="Medical Team Discussion" 
                   className="w-full h-48 object-cover rounded-2xl mb-4"
                 />
@@ -46,7 +46,7 @@ const Doctors = () => {
               
               <div className="text-center">
                 <img 
-                  src="/bageshwari-hospital/facility/Emergencyy.png" 
+                  src="/facility/Emergencyy.png" 
                   alt="Emergency Care" 
                   className="w-full h-48 object-cover rounded-2xl mb-4"
                 />

@@ -46,7 +46,7 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-16 animate-on-scroll">
           <div className="relative group">
             <img
-              src="/bageshwari-hospital/hero/Bageshwari Front.jpg"
+              src="/hero/Bageshwari Front.jpg"
               alt="Hospital Exterior"
               className="w-full h-48 object-cover rounded-2xl shadow-lg group-hover:shadow-xl transition-shadow duration-300"
             />
@@ -57,7 +57,7 @@ const AboutSection = () => {
           
           <div className="relative group">
             <img
-              src="/bageshwari-hospital/facility/Patient ward.jpg"
+              src="/facility/Patient ward.jpg"
               alt="Patient Room"
               className="w-full h-48 object-cover rounded-2xl shadow-lg group-hover:shadow-xl transition-shadow duration-300"
             />
@@ -68,7 +68,7 @@ const AboutSection = () => {
           
           <div className="relative group">
             <img
-              src="/bageshwari-hospital/facility/LAB-2.png"
+              src="/facility/LAB-2.png"
               alt="Medical Equipment"
               className="w-full h-48 object-cover rounded-2xl shadow-lg group-hover:shadow-xl transition-shadow duration-300"
             />
@@ -134,7 +134,7 @@ const AboutSection = () => {
               <CardContent className="p-8 relative z-10">
                 <div className="text-center mb-6">
                   <img
-                    src="/bageshwari-hospital/Prof Dr deepak Dutta.png"
+                    src="/Prof Dr deepak Dutta.png"
                     alt="Hospital Director"
                     className="w-24 h-24 rounded-full mx-auto mb-4 object-cover border-4 border-emerald-100"
                   />
@@ -174,7 +174,7 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="text-center">
               <img
-                src="/bageshwari-hospital/OT Image.jpg"
+                src="/OT Image.jpg"
                 alt="Operating Theater"
                 className="w-full h-32 object-cover rounded-lg mb-3"
               />
@@ -183,7 +183,7 @@ const AboutSection = () => {
             
             <div className="text-center">
               <img
-                src="/bageshwari-hospital/facility/HDU-1.png"
+                src="/facility/HDU-1.png"
                 alt="Emergency Department"
                 className="w-full h-32 object-cover rounded-lg mb-3"
               />
@@ -192,7 +192,7 @@ const AboutSection = () => {
             
             <div className="text-center">
               <img
-                src="/bageshwari-hospital/hero/Interior-1.png"
+                src="/hero/Interior-1.png"
                 alt="Patient Lounge"
                 className="w-full h-32 object-cover rounded-lg mb-3"
               />

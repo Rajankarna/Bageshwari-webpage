@@ -76,18 +76,18 @@ const HeroSection = () => {
               <div className="w-full max-w-lg mx-auto">
                 <div className="grid grid-cols-2 gap-4 mb-4">
                   <img
-                    src="/bageshwari-hospital/hero/Bageshwari Front.jpg"
+                    src="/hero/Bageshwari Front.jpg"
                     alt="Modern Hospital Building"
                     className="w-full h-32 rounded-2xl shadow-xl object-cover"
                   />
                   <img
-                    src="/bageshwari-hospital/hero/Interior.png"
+                    src="/hero/Interior.png"
                     alt="Hospital Interior"
                     className="w-full h-32 rounded-2xl shadow-xl object-cover"
                   />
                 </div>
                 <img
-                  src="/bageshwari-hospital/hero/Exterior.png"
+                  src="/hero/Exterior.png"
                   alt="Medical Equipment"
                   className="w-full h-48 rounded-2xl shadow-2xl object-cover"
                 />
@@ -120,22 +120,22 @@ const HeroSection = () => {
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <img
-              src="/bageshwari-hospital/facility/EMERGENCY.jpg"
+              src="/facility/EMERGENCY.jpg"
               alt="Surgery Suite"
               className="w-full h-full rounded-xl object-cover hover:scale-105 transition-transform duration-200"
             />
             <img
-              src="/bageshwari-hospital/facility/Operation-1.png"
+              src="/facility/Operation-1.png"
               alt="Reception Area"
               className="w-full h-full rounded-xl object-cover hover:scale-105 transition-transform duration-200"
             />
             <img
-              src="/bageshwari-hospital/facility/LAB-1.png"
+              src="/facility/LAB-1.png"
               alt="Emergency Department"
               className="w-full h-full rounded-xl object-cover hover:scale-105 transition-transform duration-200"
             />
             <img
-              src="/bageshwari-hospital/facility/Consultation-1.jpg"
+              src="/facility/Consultation-1.jpg"
               alt="Medical Team"
               className="w-full h-full rounded-xl object-cover hover:scale-105 transition-transform duration-200"
             />

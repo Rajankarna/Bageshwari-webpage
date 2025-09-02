@@ -26,7 +26,7 @@ const Testimonials = () => {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-2xl p-6">
                 <img 
-                  src="/bageshwari-hospital/facility/OT-2.png" 
+                  src="/facility/OT-2.png" 
                   alt="Happy Patient" 
                   className="w-full h-32 object-cover rounded-lg mb-4"
                 />
@@ -36,7 +36,7 @@ const Testimonials = () => {
               
               <div className="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-2xl p-6">
                 <img 
-                  src="/bageshwari-hospital/facility/EMERGENCY.jpg" 
+                  src="/facility/EMERGENCY.jpg" 
                   alt="Emergency Care" 
                   className="w-full h-32 object-cover rounded-lg mb-4"
                 />
@@ -46,7 +46,7 @@ const Testimonials = () => {
               
               <div className="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-2xl p-6">
                 <img 
-                  src="/bageshwari-hospital/facility/OT-4.png" 
+                  src="/facility/OT-4.png" 
                   alt="Maternity Care" 
                   className="w-full h-32 object-cover rounded-lg mb-4"
                 />

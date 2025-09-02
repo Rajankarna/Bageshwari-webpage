@@ -43,7 +43,7 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-6">
             <div className="w-12 h-12 bg-gray-900 flex items-center justify-center group-hover:scale-105 transition-transform duration-200 overflow-hidden">
                 <img
-                  src="/bageshwari-hospital/logo.png"
+                  src="/logo.png"
                   alt="Bageshwari Hospital Logo"
                   className="w-16 h-16 object-contain"
                 />
