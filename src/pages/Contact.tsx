@@ -148,7 +148,7 @@ const Contact = () => {
             <div className="grid md:grid-cols-2 gap-12">
               <div>
                 <img 
-                  src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                  src="/facility/Trauma.png" 
                   alt="Hospital Location" 
                   className="w-full h-64 object-cover rounded-2xl shadow-lg mb-6"
                 />
