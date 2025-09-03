@@ -67,7 +67,7 @@ const DoctorsSection = () => {
     },
     {
       id: 7,
-      name: 'Prof. Dr. Heempali Das Dutta',
+      name: 'Assoc. Prof. Dr. Heempali Das Dutta',
       specialty: 'ENT Surgeon, Specialization in Pediatric ENT Surgery',
       qualification: 'MBBS, MS(IOM)',
       experience: '15+ years',

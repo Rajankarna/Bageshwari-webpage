@@ -74,7 +74,7 @@ const AppointmentSection: React.FC = () => {
 
   const doctorsByDepartment: Record<string, Doctor[]> = {
     'Consultant Orthopaedic Surgeon': [
-      { name: 'Dr. Deepak Dutta', email: 'bageshwarihospital11@gmail.com', timeSlots: ['4:30 PM', '5:00 PM','5:30 PM', '6:00 PM','6:30 PM', '7.00 PM'] }
+      { name: 'Dr. Deepak Dutta', email: 'bageshwarihospital11@gmail.com', timeSlots: ['4:30 PM','4:45 PM', '5:00 PM','5:15 PM', '5:30 PM','5:45 PM', '6:00 PM', '6:15 PM','6:30 PM', '7:45 PM ',  '7.00 PM'] }
     ],
     'Senior Consultant Surgeon': [
       { name: 'Dr. Parshuram Mishra', email: 'bageshwarihospital11@gmail.com', timeSlots: ['11:00 AM','11:30 AM', '12:00 PM', '01:30 PM'] }
