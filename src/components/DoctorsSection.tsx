@@ -146,7 +146,7 @@ const DoctorsSection = () => {
       id: 14,
       name: 'Dr. Akankshya shrestha',
       specialty: 'Dermatologist',
-      qualification: 'MBBS, MS in Dermatology',
+      qualification: 'MBBS, MD in Dermatology',
       experience: '3+ years',
       image: '/Akanshya shrestha.jpeg',
       availability: 'On Call',
