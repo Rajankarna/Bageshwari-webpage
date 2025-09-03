@@ -69,7 +69,7 @@ const DoctorsSection = () => {
       id: 7,
       name: 'Assoc. Prof. Dr. Heempali Das Dutta',
       specialty: 'ENT Surgeon, Specialization in Pediatric ENT Surgery',
-      qualification: 'MBBS, MS(IOM)',
+      qualification: 'MBBS, MS(IOM) Gold Medalist in ENT',
       experience: '15+ years',
       image: '/Dr Heempali-Dutta.png',
       availability: '10:00 AM - 1:00 PM ( Wednesday and Saturday)',
@@ -141,6 +141,17 @@ const DoctorsSection = () => {
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Orthopedic'
+    },
+    {
+      id: 14,
+      name: 'Dr. Akankshya shrestha',
+      specialty: 'Dermatologist',
+      qualification: 'MBBS, MS in Dermatology',
+      experience: '3+ years',
+      image: '/Akanshya shrestha.jpeg',
+      availability: 'On Call',
+      email: 'bageshwarihospital11@gmail.com',
+      department: 'Dermatologist'
     },
      {
       id: 14,
