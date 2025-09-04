@@ -80,7 +80,7 @@ const AppointmentSection: React.FC = () => {
       { name: 'Dr. Parshuram Mishra', email: 'bageshwarihospital11@gmail.com', timeSlots: ['11:00 AM','11:30 AM', '12:00 PM', '01:30 PM'] }
     ],
     'Gynecology & Obstetrics': [
-      { name: 'Dr. Umakanta Bhattarai', email: 'bageshwarihospital11@gmail.com', timeSlots: [ '4:15 PM','4:30 PM','4:45 PM','5:00 PM', '05:15 PM'] }
+      { name: 'Dr. Umakanta Bhattarai', email: 'bageshwarihospital11@gmail.com', timeSlots: [ '4:15 PM','4:30 PM','4:45 PM','5:00 PM', '05:15 PM','5:30 PM', '6:00 PM'] }
     ],
     'General Surgery & Urologist': [
       { name: 'Dr. Rishi Kant Aryal', email: 'bageshwarihospital11@gmail.com', timeSlots: ['5:00 PM','5:30 PM' ] }

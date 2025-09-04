@@ -27,7 +27,7 @@ const DoctorsSection = () => {
       qualification: 'MBBS (IOM), MD (Obs/Gynae)',
       experience: '14 years',
       image: '/Uma kanth bhattarai.png',
-      availability: 'On Call (Daily from 10am-1pm)',
+      availability: 'On Call (Daily from 4pm-6pm)',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Gynecologist and obstetrician'
     },
