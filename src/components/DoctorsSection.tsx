@@ -115,7 +115,7 @@ const DoctorsSection = () => {
       specialty: 'Anesthesiologist',
       qualification: 'MBBS, MD-Anaesthesia',
       experience: '5+ years',
-      image: '/Praveen kumar giri.png',
+      image: '/dr pradeep kc.jpeg',
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
       department: 'Anesthesiologist'
