@@ -47,7 +47,7 @@ const Header = () => {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-2">
               <Phone size={14} />
-              <span>+01-4314194, +01-4315930</span>
+              <span>01-4314194, 01-4315930</span>
             </div>
             <div className="hidden md:flex items-center space-x-2">
               <Mail size={14} />
@@ -174,7 +174,7 @@ const Header = () => {
                   <span>Book Appointment</span>
                 </Link>
                 <a
-                  href="tel:+01-4315930"
+                  href="tel:01-4315930"
                   className="w-full border-2 border-emerald-600 text-emerald-600 hover:bg-emerald-600 hover:text-white py-2 rounded-full font-medium flex items-center justify-center space-x-2"
                 >
                   <Phone size={16} />
