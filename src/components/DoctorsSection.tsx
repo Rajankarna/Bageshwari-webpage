@@ -18,7 +18,7 @@ const DoctorsSection = () => {
       image: '/Prof Dr deepak Dutta.png', // Ensure this image exists in your public folder
       availability: 'Sun-Fri: 4:00 PM - 8:00 PM ,Sat: 11:00 AM - 4:00 PM' ,
       email: 'bageshwarihospital11@gmail.com',
-      department: 'Orthopaedics, Tarauma & Joint Replacement Surgeon'
+      department: 'Orthopaedics & Trauma'
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ const DoctorsSection = () => {
       image: '/Uma kanth bhattarai.png',
       availability: 'On Call (Daily from 4pm-6pm)',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'Gynecologist and obstetrician'
+      department: 'Gynecology'
     },
    
     {
@@ -41,7 +41,7 @@ const DoctorsSection = () => {
       image: '/Prashuram mishra.png',
       availability: 'Afternoon-10am to 1pm (Daily)',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'General Surgery'
+      department: 'Surgery'
     },
     {
       id: 5,
@@ -52,7 +52,7 @@ const DoctorsSection = () => {
       image: '/Rishi kanth aryal.png',
       availability: ' 5 PM - 6 PM Evening',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'General Surgery'
+      department: 'Surgery'
     },
     {
       id: 6,
@@ -96,7 +96,7 @@ const DoctorsSection = () => {
       image: '/Ram Krishna Baral.png',
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'Physician & Gastroenterologist'
+      department: 'Internal Medicine'
     },
      {
       id: 10,
@@ -107,7 +107,7 @@ const DoctorsSection = () => {
       image: '/Dr Kiran BK.png',
       availability: 'On Call (Daily from 10am-1pm)',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'General Surgeon'
+      department: 'Surgery'
     },
      {
       id: 11,
@@ -140,7 +140,7 @@ const DoctorsSection = () => {
       image: '/Rajesh pratap.png',
       availability: 'On Call',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'Orthopedic'
+      department: 'Orthopaedics & Trauma'
     },
     {
       id: 14,
@@ -154,7 +154,7 @@ const DoctorsSection = () => {
       department: 'Dermatologist'
     },
      {
-      id: 14,
+      id: 15,
       name: 'Phr. Shyam Sundar Yadav',
       specialty: 'Physiotherapy-1',
       qualification: 'BPT (India)',
@@ -162,12 +162,12 @@ const DoctorsSection = () => {
       image: '/Shyam sundar yadav.png',
       availability: '4:00 PM - 8:00 PM Everyday',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'BPT'
+      department: 'Physiotherapy'
     }
 
   ];
 
-  const departments = ['All','Orthopaedics & Trauma' ,'General Medicine', 'Gynecology', 'ENT', 'Surgery', 'Emergency', 'Diagnostics'];
+  const departments = ['All','Orthopaedics & Trauma' ,'Internal Medicine', 'Gynecology', 'ENT', 'Surgery','Dermatologist','Rardiologist','Physiotherapy'];
 
   const filteredDoctors = selectedDepartment === 'All' 
     ? doctors 

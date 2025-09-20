@@ -128,7 +128,7 @@ const Header = () => {
                 <span>Book Appointment</span>
               </Link>
               <a
-                href="tel: +01-4315930"
+                href="tel: 01-4315930"
                 className="border-2 border-emerald-600 text-emerald-600 hover:bg-emerald-600 hover:text-white px-4 py-2 rounded-full font-medium transition-all duration-200 flex items-center space-x-2"
               >
                 <Phone size={16} />
