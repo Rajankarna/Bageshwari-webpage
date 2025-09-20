@@ -69,6 +69,7 @@ const AppointmentSection: React.FC = () => {
     'ENT Surgeon',
     'Physician & Gastroenterologist',
     'Rardiologist',
+    'Dermatologist',
     'Physiotherapy',
   ];
 
@@ -100,6 +101,9 @@ const AppointmentSection: React.FC = () => {
     ],
     'Rardiologist': [
       { name: 'Dr. Rossu Thapa', email: 'bageshwarihospital11@gmail.com', timeSlots: ['08:15 AM' ] }
+    ],
+    'Dermatologist': [
+      { name: 'Dr. Akankshya shrestha', email: 'bageshwarihospital11@gmail.com', timeSlots: ['5:00 AM','5:30 PM' ] }
     ],
     'Physiotherapy': [
       { name: 'Phr. Shyam Sundar Yadav', email: 'bageshwarihospital11@gmail.com', timeSlots: ['4:30 PM', '04:45 PM', '5:00 PM','5:15 PM', '5:30 PM'] }

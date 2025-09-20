@@ -167,7 +167,7 @@ const DoctorsSection = () => {
 
   ];
 
-  const departments = ['All','Orthopaedics & Trauma' ,'Internal Medicine', 'Gynecology', 'ENT', 'Surgery','Dermatologist','Rardiologist','Physiotherapy'];
+  const departments = ['All','Orthopaedics & Trauma' ,'Internal Medicine', 'Gynecology', 'ENT', 'Surgery','Dermatologist','Radiologist','Physiotherapy'];
 
   const filteredDoctors = selectedDepartment === 'All' 
     ? doctors 
