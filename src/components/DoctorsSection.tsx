@@ -129,7 +129,7 @@ const DoctorsSection = () => {
       image: '/Rossu Thapa.png',
       availability: '10:00 AM - 1:00 PM Everyday',
       email: 'bageshwarihospital11@gmail.com',
-      department: 'Rardiologist'
+      department: 'Radiologist'
     },
     {
       id: 13,
