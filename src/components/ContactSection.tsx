@@ -84,10 +84,10 @@ const ContactSection = () => {
       icon: Phone,
       title: "Phone Numbers",
       details: [
-        "Main Reception: +01-4314194, +01-4315930",
-        "Emergency: +01-4314194, +01-4315930",
-        "Appointments: +01-4314194, +01-4315930",
-        "Pharmacy: +01-4314194, +01-4315930",
+        "Main Reception: 01-4314194, 01-4315930",
+        "Emergency: 01-4314194, 01-4315930",
+        "Appointments: 01-4314194, 01-4315930",
+        "Pharmacy: 01-4314194, 01-4315930",
       ],
     },
     {
@@ -172,7 +172,7 @@ const ContactSection = () => {
                       onChange={(e) =>
                         handleInputChange("phone", e.target.value)
                       }
-                      placeholder="+01-4314194, +01-4315930"
+                      placeholder="01-4314194, 01-4315930"
                       className="border-gray-300 focus:border-emerald-500"
                     />
                   </div>
@@ -310,10 +310,10 @@ const ContactSection = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
-  onClick={() => window.location.href = 'tel:+01-4315930'}
+  onClick={() => window.location.href = 'tel:01-4315930'}
   className="bg-red-600 hover:bg-red-700 text-white px-8 py-3 rounded-full font-semibold"
 >
-  Call Emergency: +01-4315930
+  Call Emergency: 01-4315930
 </Button>
                 <Button
                   variant="outline"
